@@ -2,4 +2,10 @@
 
 hhhhhhhhhhhhhhhhhhhhhhhh
 
+<<<<<<< HEAD
+
+
+hello~
+=======
 kkkkkkkkkkkkkkkkkkkkkkkk
+>>>>>>> 02859a46d73e2ea5bfe135681a9128938278256e
